@@ -1,6 +1,6 @@
 # Elmo
 
-![Robot Image](elmo.jpg)  
+<img src="elmo.jpg" alt="drawing" height="250"/>
 
 You can find all the resources you need to get started with **Elmo** at:
 

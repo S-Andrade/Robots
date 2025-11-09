@@ -1,6 +1,11 @@
 # Sphero
 
-![Robot Image](bolt.jpg)  ![Robot Image](ollie.jpg)  
+<p float="left">
+  <img src="bolt.jpg" alt="drawing" height="250"/>
+  <img src="ollie.jpg" alt="drawing" height="250"/>
+</p>
+
+
 
 You can find all the resources you need to get started with **Sphero Bolt** and **Sphero Ollie** at:
 

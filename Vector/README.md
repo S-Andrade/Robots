@@ -1,6 +1,6 @@
 # Vector
 
-![Robot Image](vector.jpg)  
+<img src="vector.jpg" alt="drawing" height="250"/>
 
 You can find all the resources you need to get started with **Vector**:
 

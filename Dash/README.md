@@ -1,6 +1,6 @@
 # Dash 
 
-![Robot Image](dash.jpg)  
+<img src="dash.jpg" alt="drawing" height="250"/>
 
 You can find all the resources you need to get started with **Dash** at:
 
