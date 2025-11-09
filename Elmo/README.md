@@ -1,11 +1,11 @@
 # Elmo
 
-![Robot Image](elmo.jpg =250x)  
+![Robot Image](elmo.jpg)  
 
 You can find all the resources you need to get started with **Elmo** at:
 
 - **[User Guide](Elmo_Guide.pdf)** – Detailed instructions on how to set up and use Elmo.  
-- **[ElmoV2API class]()** – Python class that  sends REST requests to the robot.
+- **[ElmoV2API class](ElmoV2API.py)** – Python class that  sends REST requests to the robot.
 - **[IdMind Official github](https://github.com/idmind-robotics/elmo-v2)**
 
 ---
