@@ -2,10 +2,9 @@
 
 ![Robot Image](cozmo.jpg)  
 
-In this folder, you can find all the resources you need to get started with **Cozmo**:
+You can find all the resources you need to get started with **Cozmo** at:
 
-- 📘 **[User Guide](Cozmo_Guide.pdf)** – Detailed instructions on how to set up and use Cozmo.  
-- 💻 **[Sample Code](sample_code/)** – Example programs to help you start developing your own projects.
+- **[User Guide](Cozmo_Guide.pdf)** – Detailed instructions on how to set up and use Cozmo.  
 
 ---
 
