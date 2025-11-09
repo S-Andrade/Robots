@@ -1,6 +1,6 @@
 # Cozmo 
 
-<img src="cozmo.jpg" alt="drawing" hight="25"/>
+<img src="cozmo.jpg" alt="drawing" height="25"/>
 
 You can find all the resources you need to get started with **Cozmo** at:
 
@@ -14,5 +14,6 @@ All equipment underwent thorough testing and verification prior to its availabil
 ---
 
 Use these materials to understand how Cozmo works and to accelerate your project development.
+
 
 
