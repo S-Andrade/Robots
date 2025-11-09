@@ -27,16 +27,16 @@ Please be respectful and responsible:
 
 | Robot | Booking Link |
 |--------|---------------|
-| [Elmo 1]() | [Book Here](https://calendar.app.google/noBf8gw7Dq3KAnus9) | 
-| [Elmo 2]() | [Book Here](https://calendar.app.google/6LotSgpr4W7DcmFm7) | 
-| [Cozmo 1]() | [Book Here](https://calendar.app.google/FnZ4upqx8XhVi7xa8) |
-| [Cozmo 2]() | [Book Here](https://calendar.app.google/9kaNmsqmRY2Rirje6) |
-| [Vector 1]() | [Book Here](https://calendar.app.google/LJWKcxxKGj2gKCdz8) |
-| [Vector 2]() | [Book Here](https://calendar.app.google/tF34Z4kQ3qNapzdX8) |
-| [Sphero Bolt 1]() | [Book Here](https://calendar.app.google/7MvgJHo4oX3ggsYL9) |
-| [Sphero Bolt 2]() | [Book Here](https://calendar.app.google/zj3AW8VQKQJaT2i78) |
-| [Sphero Bolt Ollie]() | [Book Here](https://calendar.app.google/VMVz5wPGr2QXjXKr7) |
-| [Dash]() | [Book Here](https://calendar.app.google/UeoqzbDUvYfF4abm7) |
+| [Elmo 1](Elmo/) | [Book Here](https://calendar.app.google/noBf8gw7Dq3KAnus9) | 
+| [Elmo 2](Elmo/) | [Book Here](https://calendar.app.google/6LotSgpr4W7DcmFm7) | 
+| [Cozmo 1](Cozmo/) | [Book Here](https://calendar.app.google/FnZ4upqx8XhVi7xa8) |
+| [Cozmo 2](https://github.com/S-Andrade/Robots/tree/main/Cozmo) | [Book Here](https://calendar.app.google/9kaNmsqmRY2Rirje6) |
+| [Vector 1](https://github.com/S-Andrade/Robots/tree/main/Vector) | [Book Here](https://calendar.app.google/LJWKcxxKGj2gKCdz8) |
+| [Vector 2](https://github.com/S-Andrade/Robots/tree/main/Vector) | [Book Here](https://calendar.app.google/tF34Z4kQ3qNapzdX8) |
+| [Sphero Bolt 1](https://github.com/S-Andrade/Robots/tree/main/Sphero) | [Book Here](https://calendar.app.google/7MvgJHo4oX3ggsYL9) |
+| [Sphero Bolt 2](https://github.com/S-Andrade/Robots/tree/main/Sphero) | [Book Here](https://calendar.app.google/zj3AW8VQKQJaT2i78) |
+| [Sphero Bolt Ollie](https://github.com/S-Andrade/Robots/tree/main/Sphero) | [Book Here](https://calendar.app.google/VMVz5wPGr2QXjXKr7) |
+| [Dash](https://github.com/S-Andrade/Robots/tree/main/Dash) | [Book Here](https://calendar.app.google/UeoqzbDUvYfF4abm7) |
 ---
 
 
