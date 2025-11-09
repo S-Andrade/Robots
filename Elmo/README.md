@@ -1,6 +1,6 @@
 # Elmo
 
-![Robot Image](elmo.jpg)  
+![Robot Image](elmo.jpg =250x)  
 
 You can find all the resources you need to get started with **Elmo** at:
 
