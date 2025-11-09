@@ -1,6 +1,6 @@
 # Cozmo 
 
-![Robot Image](cozmo.jpg)  
+<img src="cozmo.jpg" alt="drawing" hight="200"/>
 
 You can find all the resources you need to get started with **Cozmo** at:
 
