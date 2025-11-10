@@ -5,6 +5,7 @@
 You can find all the resources you need to get started with **Cozmo** at:
 
 - **[User Guide](Cozmo_Guide.pdf)** – Detailed instructions on how to set up and use Cozmo.  
+- **[PyCozmo](https://github.com/zayfod/pycozmo)** - Pure-Python communication library, alternative SDK, and application for Cozmo.
 
 ---
 

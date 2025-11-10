@@ -13,7 +13,7 @@ To ensure everyone gets fair access, we use a **Google Calendar booking system**
 This allows you to:
 
 - **Book time slots** for the robot you need  
-- **See when robots are already in use**  [Calendar](https://calendar.google.com/calendar/embed?src=c_35c092cef07756df8d191b45ba92cb2c31aad46752e61553c695ea96d1a9cb69%40group.calendar.google.com&ctz=Europe%2FLisbon)
+- **See when robots are already in use at**  [Calendar](https://calendar.google.com/calendar/embed?src=c_35c092cef07756df8d191b45ba92cb2c31aad46752e61553c695ea96d1a9cb69%40group.calendar.google.com&ctz=Europe%2FLisbon)
 - **Cancel your booking** if you can’t attend  
 - **Check which group is using each robot**
 
