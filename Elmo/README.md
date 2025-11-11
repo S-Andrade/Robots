@@ -7,6 +7,7 @@ You can find all the resources you need to get started with **Elmo** at:
 - **[User Guide](Elmo_Guide.pdf)** – Detailed instructions on how to set up and use Elmo.  
 - **[ElmoV2API class](ElmoV2API.py)** – Python class that  sends REST requests to the robot.
 - **[IdMind Official github](https://github.com/idmind-robotics/elmo-v2)**
+- Easily find elmo ip by running **[find_elmo_ip.py](find_elmo_ip.py)**
 
 ---
 
