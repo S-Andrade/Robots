@@ -39,7 +39,7 @@ Elmo components are:
     
 >[!NOTE]
 > If you need to be connected to the internet, connect the router to a ethernet socket with a networking cable 
-    > - On Lab 0 no ethernet sockets are available, so during lab classes the router will be supplied with Ethernet by the professor computer, but if you come to the lab before hours one of your team members must be the one sharing the ethernet connection throughout their computer
+    >- On Lab 0 no ethernet sockets are available, so during lab classes the router will be supplied with Ethernet by the professor computer, but if you come to the lab before hours one of your team members must be the one sharing the ethernet connection throughout their computer
 
 2. Connect you computer to the router network
 
