@@ -44,11 +44,11 @@ Elmo components are:
 
 3. Turn on the robot by pressing the button on its back for a few seconds.
 
-4. Create a virtual environment
+4. Assure that you are using a python version between 3.8 and 3.11 or create your virtual environment with one of those.
+
+5. Create a virtual environment.
 > [!WARNING]
 > It is good practice to create a virtual environment for each of your projects! 
-
-5. Assure that you are using a python version between 3.8 and 3.11
 
 6. Download the 3 scripts available into the same folder:
     - [find_elmo_ip.py](find_elmo_ip.py) - Python script that finds the Elmo ip on the network
