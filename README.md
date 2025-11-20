@@ -7,7 +7,7 @@ Here you’ll find **guides** and **example code** to help you learn how to use 
 
 ## Robot Access
 
-You can use the robots during **lab sessions**, but they’re also available **24/7** in **room XX**.  
+You can use the robots during **lab sessions**, but they’re also available from **7AM to 10PM** in **Lab 0**.  
 
 To ensure everyone gets fair access, we use a **Google Calendar booking system**.  
 This allows you to:

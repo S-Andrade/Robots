@@ -2,6 +2,18 @@
 
 <img src="elmo.jpg" alt="drawing" height="250"/>
 
+<div style="background-color:rgba(225, 240, 255, 1);">
+
+> # ✨ NEWS!
+>
+> Margarida Estrela shared with us her project with Elmo!
+>
+> Take a look! She did a very cool interface to interact with Elmo. She even uses the Elmo camera in real-time!
+>
+> Explore the project github: [🎭 The Emo-Show Game](https://github.com/MargaridaEstrela/emoshow)
+
+</div>
+
 
 ## What is Elmo?
 
