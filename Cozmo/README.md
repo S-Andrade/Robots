@@ -2,6 +2,16 @@
 
 <img src="cozmo.jpg" alt="drawing" height="250"/>
 
+<div style="background-color:rgba(225, 240, 255, 1);">
+
+> # ✨ NEWS!
+>
+> André Silva shared with us his master theses project with Cozmo!
+>
+> Explore the project github: [Conflict Model](https://github.com/joanacfcampos/ConflictModel.git)
+
+</div>
+
 ## What is Cozmo?
 
 Cozmo is a small, intelligent robot developed by Anki that combines robotics, AI, and expressive personality to create an engaging interactive experience. Unlike a simple toy, Cozmo can recognize faces, play games, explore its environment, and respond to user input with a lively personality. It’s designed to be both fun and educational—an ideal platform for learning about coding, robotics, and artificial intelligence.
