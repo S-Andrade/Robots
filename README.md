@@ -29,6 +29,7 @@ Please be respectful and responsible:
 |--------|---------------|
 | [Elmo 1](Elmo/) | [Book Here](https://calendar.app.google/noBf8gw7Dq3KAnus9) | 
 | [Elmo 2](Elmo/) | [Book Here](https://calendar.app.google/6LotSgpr4W7DcmFm7) | 
+| [Elmo 3](Elmo/) | [Book Here](https://calendar.app.google/wYNGEJGGfyoj7AbHA) | 
 | [Cozmo 1](Cozmo/) | [Book Here](https://calendar.app.google/FnZ4upqx8XhVi7xa8) |
 | [Cozmo 2](Cozmo/) | [Book Here](https://calendar.app.google/9kaNmsqmRY2Rirje6) |
 | [Vector 1](Vector/) | [Book Here](https://calendar.app.google/LJWKcxxKGj2gKCdz8) |
@@ -38,6 +39,7 @@ Please be respectful and responsible:
 | [Sphero Bolt Ollie](Sphero/) | [Book Here](https://calendar.app.google/VMVz5wPGr2QXjXKr7) |
 | [Dash](Dash/) | [Book Here](https://calendar.app.google/UeoqzbDUvYfF4abm7) |
 ---
+
 
 
 
